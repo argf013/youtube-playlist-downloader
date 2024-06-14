@@ -18,7 +18,7 @@ A Node.js application to download and merge videos and audio from a YouTube play
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/youtube-playlist-downloader.git
+   git clone https://github.com/argf013/youtube-playlist-downloader.git
    cd youtube-playlist-downloader
 
 2. Install the dependencies:
